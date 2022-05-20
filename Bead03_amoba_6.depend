@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1652973809 source:/home/sedro/codeblocks/Bead03_amoba_6/main.cpp
+	"MyApplication.hpp"
+
+1652994543 /home/sedro/codeblocks/Bead03_amoba_6/MyApplication.hpp
+	"Application.hpp"
+	"Board.hpp"
+
+1652981045 /home/sedro/codeblocks/Bead03_amoba_6/Application.hpp
+	"Board.hpp"
+	"GameMaster.hpp"
+	"GameFinishedBoard.hpp"
+	"PlayerTurn.hpp"
+	<algorithm>
+
+1652993734 /home/sedro/codeblocks/Bead03_amoba_6/Board.hpp
+	"Widget.hpp"
+	<vector>
+
+1652993734 /home/sedro/codeblocks/Bead03_amoba_6/Widget.hpp
+	"graphics.hpp"
+
+1651130680 /home/sedro/ITK_graphicslib/graphics.hpp
+	<string>
+	<vector>
+
+1652972592 /home/sedro/codeblocks/Bead03_amoba_6/Point.hpp
+
+1652973392 /home/sedro/codeblocks/Bead03_amoba_6/GameMaster.hpp
+	"Board.hpp"
+	<algorithm>
+
+1652985132 /home/sedro/codeblocks/Bead03_amoba_6/GameFinishedBoard.hpp
+	"Widget.hpp"
+	"Application.hpp"
+
+1652644173 /home/sedro/codeblocks/Bead03_amoba_6/PlayerTurn.hpp
+	"Widget.hpp"
+
+1652995663 source:/home/sedro/codeblocks/Bead03_amoba_6/MyApplication.cpp
+	"MyApplication.hpp"
+
+1652995321 source:/home/sedro/codeblocks/Bead03_amoba_6/Board.cpp
+	"Board.hpp"
+
+1652995663 source:/home/sedro/codeblocks/Bead03_amoba_6/Widget.cpp
+	"Widget.hpp"
+
+1652985319 source:/home/sedro/codeblocks/Bead03_amoba_6/Application.cpp
+	"Application.hpp"
+
+1653000965 source:/home/sedro/codeblocks/Bead03_amoba_6/GameMaster.cpp
+	"GameMaster.hpp"
+	<iostream>
+
+1652641287 source:/home/sedro/codeblocks/Bead03_amoba_6/PlayerTurn.cpp
+	"PlayerTurn.hpp"
+
+1652980946 source:/home/sedro/codeblocks/Bead03_amoba_6/GameFinishedBoard.cpp
+	"GameFinishedBoard.hpp"
+
+1652553366 source:/home/sedro/codeblocks/Bead03_amoba_6/Point.cpp
+	"Point.hpp"
+
